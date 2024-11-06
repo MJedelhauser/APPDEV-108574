@@ -73,13 +73,36 @@ Here are some great places to learn more about Python:
 
 Here is a table of some popular Python libraries and their uses:
 
-| **Library**   | **Use Case**        |
-|:-------------:|:-------------------:|
-| Django        | Web Development     |
-| Pandas        | Data Analysis       |
-| NumPy         | Numerical Computing |
-| Matplotlib    | Data Visualization  |
-| Scikit-learn  | Machine Learning    |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center;">Library</th>
+      <th style="text-align: center;">Use Case</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left;">Django</td>
+      <td style="text-align: left;">Web Development</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Pandas</td>
+      <td style="text-align: left;">Data Analysis</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">NumPy</td>
+      <td style="text-align: left;">Numerical Computing</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Matplotlib</td>
+      <td style="text-align: left;">Data Visualization</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Scikit-learn</td>
+      <td style="text-align: left;">Machine Learning</td>
+    </tr>
+  </tbody>
+</table>
 
 # 4 Conclusion
 
