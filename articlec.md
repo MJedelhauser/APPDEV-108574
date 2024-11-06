@@ -5,7 +5,7 @@ straightforward syntax. It is a favorite among developers in diverse fields, fro
 to data science, due to its simplicity and the vast ecosystem of libraries and frameworks it
 supports.
 
-IMAGE
+![Python logo](https://www.python.org/static/img/python-logo@2x.png)
 
 ## 1. Python's Key Features
 
